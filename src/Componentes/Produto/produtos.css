@@ -1,0 +1,20 @@
+Produto.css
+
+
+.preco-prod{
+    text-decoration: line-through;
+    font-size: 10pt;
+ 
+}
+
+.preco-prod{
+    text-decoration: line-through;
+    font-size: 10pt;
+    color: rgb(216, 82, 20);
+    
+}
+.nome-prod {
+    font-size: 10pt;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
